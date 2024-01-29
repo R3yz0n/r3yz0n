@@ -2,13 +2,13 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 <br/>
   
- [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=r3yz0n&icon=5&color=0)](https://visitcount.itsvg.in)
  
 </div>
 
 ###
 
-<h2 align="center">नमस्ते (Namaste), I am <a href="https://prem.dev/" target="_blank">Prem Gautam</a> 〽️ </h2>
+<h2 align="center">नमस्ते (Namaste), I am <a href="https://prem.dev/" target="_blank">Sagar Thapa Chhetri</a> 〽️ </h2>
 
 ###
 
@@ -31,18 +31,18 @@ Edit the language and tools from -> https://gprm.itsvg.in/
 
 ## 📊 GitHub Stats:
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pray3m&show_icons=true&locale=en&theme=dracula"
-        alt="pray3m" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3yz0n&show_icons=true&locale=en&theme=dracula"
+        alt="r3yz0n" />
 </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pray3m&theme=dracula" alt="pray3m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3yz0n&theme=dracula" alt="r3yz0n" /></p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pray3m&show_icons=true&locale=en&theme=dracula"
-        alt="pray3m"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=r3yz0n&show_icons=true&locale=en&theme=dracula"
+        alt="r3yz0n"/>
 </p>
 
 <!---
-pray3m/pray3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+r3yz0n/r3yz0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
