@@ -17,7 +17,6 @@
 
 - 🌱 I’m currently learning **NextJs, TailwindCSS, NodeJs, Prisma, TypeScript**
 
-- 📝 [My Resume](loading)
 
 <br/>
 
