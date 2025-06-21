@@ -15,7 +15,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning **NextJs, TailwindCSS, NodeJs, Prisma, TypeScript**
+- 🌱 I’m currently working with **NextJs, NodeJs, Sql, TypeScript and  interested in web3**
 
 
 <br/>
